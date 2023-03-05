@@ -52,7 +52,7 @@ class Menu
     # returns a list of Dishes
   end
 
-  def show_menu
+  def presentq_menu
     # returns a list of dishes as strings
   end
 end
